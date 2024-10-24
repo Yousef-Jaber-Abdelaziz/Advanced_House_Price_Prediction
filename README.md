@@ -4,8 +4,8 @@ This project focuses on predicting house prices using a rich set of features tha
 
 The dataset includes features such as:
 
-Square footage
-Number of bedrooms and bathrooms
-Age of the property
-Neighborhood and proximity to amenities
+- Square footage
+- Number of bedrooms and bathrooms
+- Age of the property
+- Neighborhood and proximity to amenities
 Our objective is to build a robust model that can make accurate predictions based on these features.
