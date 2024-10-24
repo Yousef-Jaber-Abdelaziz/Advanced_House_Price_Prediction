@@ -44,8 +44,6 @@
 >      - **Random Forest**
 >      - **XGBoost**
 > 
-> 4. **Hyperparameter Tuning**:
->    - Grid search and cross-validation techniques were used to fine-tune the models.
 
 ---
 
@@ -54,7 +52,6 @@
 > - **Best Model**: XGBoost produced the best results with the lowest error on the test set.
 > - **Evaluation Metrics**:
 >   - **RMSE (Root Mean Squared Error)**: Used to evaluate model performance.
->   - **MAE (Mean Absolute Error)**: Another metric to ensure model robustness.
 
 ---
 
@@ -66,5 +63,5 @@
 
 ## 📚 References
 
-> - Data Source: [Competition Page Link]
+> - Data Source: [https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques]
 > - Scikit-learn, XGBoost, and Pandas libraries were used in this project.
